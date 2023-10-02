@@ -14,7 +14,7 @@ const ModalOverlay = (props) => {
   );
 };
 const portalElement = document.getElementById("overlays");
-//ASDFKGIU
+
 const Modal = (props) => {
   return (
     <Fragment>
